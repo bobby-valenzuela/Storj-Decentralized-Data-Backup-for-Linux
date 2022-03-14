@@ -17,12 +17,3 @@ Backup Note: If the script is called without an argument, it defeault to backing
 
 Recover Note: If the script is called to recover with the `-f` flag, the recover will be forced bypassing the confirmation prompt that the 'recovered_files' dir will be overwritten (if it exists).
 ** Example: `python3 storj_backup recover -f` 
-
-
-A successful backup will yeild this message in the command prompt:
-         _   _       _                 _          _ _
-        | | | |_ __ | | ___   __ _  __| | ___  __| | |
-        | | | | '_ \| |/ _ \ / _` |/ _` |/ _ \/ _` | |
-        | |_| | |_) | | (_) | (_| | (_| |  __/ (_| |_|
-         \___/| .__/|_|\___/ \__,_|\__,_|\___|\__,_(_)
-              |_|
