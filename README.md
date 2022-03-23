@@ -15,5 +15,7 @@ A python scripts that scans a folder, archives/compress the contents into a sing
 
 Backup Note: If the script is called without an argument, it defeault to backing up the contents in the folder.
 
-Recover Note: If the script is called to recover with the `-f` flag, the recover will be forced bypassing the confirmation prompt that the 'recovered_files' dir will be overwritten (if it exists).
+Recover Note: If the script is called to recover with the `-f` flag, the recover will be forced bypassing the confirmation prompt which states "
+the 'recovered_files' dir will be overwritten (if it exists)".
+
 ** Example: `python3 storj_backup recover -f` 
