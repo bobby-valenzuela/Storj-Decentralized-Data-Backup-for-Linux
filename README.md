@@ -19,3 +19,5 @@ Recover Note: If the script is called to recover with the `-f` flag, the recover
 the 'recovered_files' dir will be overwritten (if it exists)".
 
 ** Example: `python3 storj_backup recover -f` 
+
+Demo Clip: https://link.us1.storjshare.io/s/jx75z6kucbtre7h2e7wkdboode6a/clips/Storj_cli_backup_demo.mp4
